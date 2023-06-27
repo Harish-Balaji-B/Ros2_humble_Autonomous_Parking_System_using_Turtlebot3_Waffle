@@ -58,4 +58,6 @@ The Autonomous Parking System follows a modular architecture, consisting of seve
 
 - <strong>Human-Machine Interface</strong>: This component provides a user interface for interacting with the Autonomous Parking System. It enables users to monitor the system's status, configure settings, and override or interrupt the parking process if necessary.
 
+# Sample Images
+
 
