@@ -1,0 +1,5 @@
+[console_scripts]
+occupancy_grid_pub_node = autonomous_tb3.occupancy_grid_pub:main
+parking_solver = autonomous_tb3.parking_solver:main
+sdf_spawner = autonomous_tb3.spawn_entity:main
+
