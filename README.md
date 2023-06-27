@@ -3,3 +3,4 @@ This repository contains the code and resources for an Autonomous Parking System
 
 # Table of Contents
 Introduction
+Installation
